@@ -54,12 +54,18 @@ b.  KCL:```![WhatsApp Image 2025-10-17 at 08 26 15_33a4ee3e](https://github.com/
 
 Calculation:
 
-a.   KVL:```![WhatsApp Image 2025-10-17 at 08 42 39_3b395585](https://github.com/user-attachments/assets/02b5178d-8f70-47b0-87d2-ee3ccb706d0a)
+a.   KVL:```![WhatsApp Image 2025-10-21 at 12 35 23_dc7d9327](https://github.com/user-attachments/assets/355e45ef-869a-4491-bced-36cee5ce6d42)![WhatsApp Image 2025-10-21 at 12 35 24_796b5671](https://github.com/user-attachments/assets/8fa8f530-7bbd-4185-9d31-48bb30934236)
+
+
+
 
  
 
 
-b.  KCL:```![WhatsApp Image 2025-10-17 at 08 44 23_3fad92aa](https://github.com/user-attachments/assets/2912be2b-ead0-43d8-987b-082ccea53f8a)
+b.  KCL:```![WhatsApp Image 2025-10-21 at 12 35 24_18b2929c](https://github.com/user-attachments/assets/3dd607fa-9d56-4ce7-8266-205cd257e8dc)![WhatsApp Image 2025-10-21 at 12 35 25_977e9956](https://github.com/user-attachments/assets/1a6adf6a-9f57-48f4-9f23-82244e76f211)
+
+
+
 
 
 
@@ -67,12 +73,14 @@ b.  KCL:```![WhatsApp Image 2025-10-17 at 08 44 23_3fad92aa](https://github.com/
 
 Tabulation:
 
-a.   KVL:```![WhatsApp Image 2025-10-17 at 08 44 24_e1af7ed4](https://github.com/user-attachments/assets/c727740b-9535-4e63-9b0f-2b10e5066d3f)
+a.   KVL:```![WhatsApp Image 2025-10-21 at 12 35 22_bcb059f9](https://github.com/user-attachments/assets/c410fa0a-d133-457b-a8bc-24297d758fa0)
+
 
  
 
 
-b.  KCL:```![WhatsApp Image 2025-10-17 at 08 44 24_6a2fe705](https://github.com/user-attachments/assets/9041b6dc-a4df-4eb3-8e42-e6316d9abaa0)
+b.  KCL:```![WhatsApp Image 2025-10-21 at 12 35 22_876aab33](https://github.com/user-attachments/assets/b2bbf1ae-15e9-4a0d-87a9-9bb2180d52f9)
+
 
 
 
